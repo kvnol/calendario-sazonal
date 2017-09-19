@@ -75,5 +75,12 @@
     "nome": "Dia do mensageiro",
     "descricao": "",
     "wikipedia": ""
+  },
+  {
+    "id": 12,
+    "data": "07-01",
+    "nome": "Dia do leitor",
+    "descricao": "",
+    "wikipedia": ""
   }]
 }
