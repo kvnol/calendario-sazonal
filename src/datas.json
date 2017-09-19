@@ -19,5 +19,12 @@
     "nome": "Dia Mundial da Paz",
     "descricao": "O Dia Mundial da Paz, inicialmente chamado simplesmente de Dia da Paz, é comemorado em 1 de janeiro, tendo sido criado pelo papa Paulo VI em 1967.",
     "wikipedia": "https://pt.wikipedia.org/wiki/Dia_Mundial_da_Paz"
+  },
+  {
+    "id": 4,
+    "data": "01-01",
+    "nome": "Dia do Mercosul",
+    "descricao": "",
+    "wikipedia": ""
   }]
 }
