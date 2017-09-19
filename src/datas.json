@@ -68,5 +68,12 @@
     "nome": "Dia mundial do astrólogo",
     "descricao": "A astrologia é uma pseudociência segundo a qual as posições relativas dos corpos celestes poderiam prover informação sobre a personalidade, as relações humanas, e outros assuntos relacionados à vida do ser humano.",
     "wikipedia": "https://pt.wikipedia.org/wiki/Astrologia"
+  },
+  {
+    "id": 11,
+    "data": "06-01",
+    "nome": "Dia do mensageiro",
+    "descricao": "",
+    "wikipedia": ""
   }]
 }
