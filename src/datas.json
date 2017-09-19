@@ -1,32 +1,35 @@
 {
-  "days": [{
-    "date": "01-01",
-    "holidays": [
-      {
-        "id": 1,
-        "title": "Ano novo",
-        "description": "Ano-novo ou ano-bom é o momento em que um novo ano civil começa e quando um novo calendário anual é iniciado. Em muitas culturas ao redor do mundo, o evento é comemorado de alguma maneira, principalmente na véspera da data.",
-        "wikipedia": "https://pt.wikipedia.org/wiki/Ano-novo"
-      },
-      {
-        "id": 2,
-        "title": "Dia da Fraternidade Universal",
-        "description": "O Dia da Fraternidade Universal ou Dia da Confraternização Universal é um feriado nacional no Brasil, comemorado no dia 1 de janeiro. Foi instituído por lei em 1935, por Getúlio Vargas.",
-        "wikipedia": "https://pt.wikipedia.org/wiki/Dia_da_Fraternidade_Universal"
-      },
-      {
-        "id": 3,
-        "title": "Dia Mundial da Paz",
-        "description": "O Dia Mundial da Paz, inicialmente chamado simplesmente de Dia da Paz, é comemorado em 1 de janeiro, tendo sido criado pelo papa Paulo VI em 1967.",
-        "wikipedia": "https://pt.wikipedia.org/wiki/Dia_Mundial_da_Paz"
-      },
-      {
-        "id": 4,
-        "title": "Dia do Mercosul",
-        "description": "",
-        "wikipedia": ""
-      }
-    ]},{
+  "days": [
+    {
+      "date": "01-01",
+      "holidays": [
+        {
+          "id": 1,
+          "title": "Ano novo",
+          "description": "Ano-novo ou ano-bom é o momento em que um novo ano civil começa e quando um novo calendário anual é iniciado. Em muitas culturas ao redor do mundo, o evento é comemorado de alguma maneira, principalmente na véspera da data.",
+          "wikipedia": "https://pt.wikipedia.org/wiki/Ano-novo"
+        },
+        {
+          "id": 2,
+          "title": "Dia da Fraternidade Universal",
+          "description": "O Dia da Fraternidade Universal ou Dia da Confraternização Universal é um feriado nacional no Brasil, comemorado no dia 1 de janeiro. Foi instituído por lei em 1935, por Getúlio Vargas.",
+          "wikipedia": "https://pt.wikipedia.org/wiki/Dia_da_Fraternidade_Universal"
+        },
+        {
+          "id": 3,
+          "title": "Dia Mundial da Paz",
+          "description": "O Dia Mundial da Paz, inicialmente chamado simplesmente de Dia da Paz, é comemorado em 1 de janeiro, tendo sido criado pelo papa Paulo VI em 1967.",
+          "wikipedia": "https://pt.wikipedia.org/wiki/Dia_Mundial_da_Paz"
+        },
+        {
+          "id": 4,
+          "title": "Dia do Mercosul",
+          "description": "",
+          "wikipedia": ""
+        }
+      ]
+    },
+    {
       "date": "02-01",
       "holidays": [
         {
@@ -34,8 +37,10 @@
           "title": "Dia do médico sanitarista",
           "description": "",
           "wikipedia": ""
-        }]
-    },{
+        }
+      ]
+    },
+    {
       "date": "04-01",
       "holidays": [
         {
@@ -49,8 +54,10 @@
           "title": "Dia do hemofílico",
           "description": "O Dia Mundial do Hemofílico ou Dia Mundial da Hemofilia é comemorado em 17 de abril. Desde 1989, no dia 17 de abril, em homenagem a Frank Schnabel, fundador da Federação Mundial de Hemofilia, nascido neste dia.",
           "wikipedia": "https://pt.wikipedia.org/wiki/Dia_do_Hemof%C3%ADlico"
-        }]
-    },{
+        }
+      ]
+    },
+    {
       "date": "05-01",
       "holidays": [
         {
@@ -58,8 +65,10 @@
           "title": "Dia da criação da 1ª tipografia no brasil",
           "description": "",
           "wikipedia": ""
-        }]
-    },{
+        }
+      ]
+    },
+    {
       "date": "06-01",
       "holidays": [
         {
@@ -79,8 +88,10 @@
           "title": "Dia do mensageiro",
           "description": "",
           "wikipedia": ""
-        }]
-    },{
+        }
+      ]
+    },
+    {
       "date": "07-01",
       "holidays": [
         {
@@ -89,7 +100,9 @@
           "description": "",
           "wikipedia": ""
         }
-    ]},{
+      ]
+    },
+    {
       "date": "28-02",
       "holidays": [
         {
@@ -98,7 +111,8 @@
           "description": "",
           "wikipedia": "https://pt.wikipedia.org/wiki/Carnaval"
         }
-    ]}
+      ]
+    }
   ]
 }
   
