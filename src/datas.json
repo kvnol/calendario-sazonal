@@ -33,5 +33,12 @@
     "nome": "Dia do médico sanitarista",
     "descricao": "",
     "wikipedia": ""
+  },
+  {
+    "id": 6,
+    "data": "04-01",
+    "nome": "Dia nacional da abreugrafia",
+    "descricao": "Abreugrafia é o nome dado no Brasil a um método rápido e barato de tirar pequenas chapas radiográficas dos pulmões, para facilitar o diagnóstico da tuberculose, doença mortal. O teste, que registra a imagem do tórax numa tela de raios X, espalhou-se pelo mundo.",
+    "wikipedia": "https://pt.wikipedia.org/wiki/Abreugrafia"
   }]
 }
