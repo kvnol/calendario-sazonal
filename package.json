@@ -1,0 +1,22 @@
+{
+  "name": "calendario-sazonal",
+  "version": "0.0.0",
+  "description": "API em JSON de datas comemorativas no Brasil.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kvnol/calendario-sazonal.git"
+  },
+  "keywords": [
+    "json-api"
+  ],
+  "author": "@kvnol",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kvnol/calendario-sazonal/issues"
+  },
+  "homepage": "https://github.com/kvnol/calendario-sazonal#readme"
+}
