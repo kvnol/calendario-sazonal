@@ -12,5 +12,12 @@
     "nome": "Dia da Fraternidade Universal",
     "descricao": "O Dia da Fraternidade Universal ou Dia da Confraternização Universal é um feriado nacional no Brasil, comemorado no dia 1 de janeiro. Foi instituído por lei em 1935, por Getúlio Vargas.",
     "wikipedia": "https://pt.wikipedia.org/wiki/Dia_da_Fraternidade_Universal"
+  },
+  {
+    "id": 3,
+    "data": "01-01",
+    "nome": "Dia Mundial da Paz",
+    "descricao": "O Dia Mundial da Paz, inicialmente chamado simplesmente de Dia da Paz, é comemorado em 1 de janeiro, tendo sido criado pelo papa Paulo VI em 1967.",
+    "wikipedia": "https://pt.wikipedia.org/wiki/Dia_Mundial_da_Paz"
   }]
 }
