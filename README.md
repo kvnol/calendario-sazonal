@@ -7,6 +7,7 @@
 
 ### Últimas atualizações
 
+* `0.1.7` - Datas do dia `8 de janeiro` adicionadas
 * `0.2.0` - Nova estrutura criada
 * `0.1.6` - Datas do dia `7 de janeiro` adicionadas
 * `0.1.6` - Datas do dia `6 de janeiro` adicionadas
