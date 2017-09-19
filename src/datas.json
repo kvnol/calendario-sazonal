@@ -40,5 +40,12 @@
     "nome": "Dia nacional da abreugrafia",
     "descricao": "Abreugrafia é o nome dado no Brasil a um método rápido e barato de tirar pequenas chapas radiográficas dos pulmões, para facilitar o diagnóstico da tuberculose, doença mortal. O teste, que registra a imagem do tórax numa tela de raios X, espalhou-se pelo mundo.",
     "wikipedia": "https://pt.wikipedia.org/wiki/Abreugrafia"
+  },
+  {
+    "id": 7,
+    "data": "04-01",
+    "nome": "Dia do hemofílico",
+    "descricao": "O Dia Mundial do Hemofílico ou Dia Mundial da Hemofilia é comemorado em 17 de abril. Desde 1989, no dia 17 de abril, em homenagem a Frank Schnabel, fundador da Federação Mundial de Hemofilia, nascido neste dia.",
+    "wikipedia": "https://pt.wikipedia.org/wiki/Dia_do_Hemof%C3%ADlico"
   }]
 }
