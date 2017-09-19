@@ -5,5 +5,12 @@
     "nome": "Ano novo",
     "descricao": "Ano-novo ou ano-bom é o momento em que um novo ano civil começa e quando um novo calendário anual é iniciado. Em muitas culturas ao redor do mundo, o evento é comemorado de alguma maneira, principalmente na véspera da data.",
     "wikipedia": "https://pt.wikipedia.org/wiki/Ano-novo"
+  },
+  "datas": [{
+    "id": 2,
+    "data": "01-01",
+    "nome": "Dia da Fraternidade Universal",
+    "descricao": "O Dia da Fraternidade Universal ou Dia da Confraternização Universal é um feriado nacional no Brasil, comemorado no dia 1 de janeiro. Foi instituído por lei em 1935, por Getúlio Vargas.",
+    "wikipedia": "https://pt.wikipedia.org/wiki/Dia_da_Fraternidade_Universal"
   }]
 }
