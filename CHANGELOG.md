@@ -2,6 +2,7 @@
 
 ## 19-09-2017
 
+* `0.1.5` - Datas do dia `5 de janeiro` adicionadas
 * `0.1.4` - Datas do dia `4 de janeiro` adicionadas
 * `0.1.3` - Datas do dia `2 de janeiro` adicionadas
 * `0.1.2` - Arquivo `data.json` movido para pasta `/src`
