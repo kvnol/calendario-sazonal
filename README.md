@@ -7,6 +7,8 @@
 
 ### Últimas atualizações
 
+* `0.1.4` - Datas do dia `4 de janeiro` adicionadas
+* `0.1.3` - Datas do dia `2 de janeiro` adicionadas
 * `0.1.2` - Arquivo `data.json` movido para pasta `/src`
 * `0.1.1` - Datas do dia `1 de janeiro` adicionadas
 * `0.1.0` - Padrão inicial criado
