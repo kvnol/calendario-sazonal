@@ -443,6 +443,18 @@
           "wikipedia": ""
         }
       ]
+    },
+    {
+      "date": "31-01",
+      "holiday": false,
+      "celebrations": [
+        {
+          "id": 48,
+          "title": "Dia mundial do mágico",
+          "description": "",
+          "wikipedia": ""
+        }
+      ]
     }
   ]
 }
