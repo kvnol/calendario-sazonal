@@ -467,6 +467,18 @@
           "wikipedia": ""
         }
       ]
+    },
+    {
+      "date": "02-02",
+      "holiday": false,
+      "celebrations": [
+        {
+          "id": 50,
+          "title": "N.Sa dos Navegantes",
+          "description": "",
+          "wikipedia": ""
+        }
+      ]
     }
   ]
 }
