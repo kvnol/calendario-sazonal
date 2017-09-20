@@ -497,6 +497,18 @@
           "wikipedia": ""
         }
       ]
+    },
+    {
+      "date": "05-02",
+      "holiday": false,
+      "celebrations": [
+        {
+          "id": 53,
+          "title": "Dia da Papiloscopista",
+          "description": "",
+          "wikipedia": ""
+        }
+      ]
     }
   ]
 }
