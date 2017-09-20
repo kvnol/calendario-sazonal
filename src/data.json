@@ -167,6 +167,18 @@
           "wikipedia": ""
         }
       ]
+    },
+    {
+      "date": "14-01",
+      "holiday": false,
+      "celebrations": [
+        {
+          "id": 19,
+          "title": "Dia do enfermo",
+          "description": "",
+          "wikipedia": ""
+        }
+      ]
     }
   ]
 }
