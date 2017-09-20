@@ -293,6 +293,18 @@
           "wikipedia": ""
         }
       ]
+    },
+    {
+      "date": "24-01",
+      "holiday": false,
+      "celebrations": [
+        {
+          "id": 32,
+          "title": "Dia nacional do aposentado",
+          "description": "",
+          "wikipedia": ""
+        }
+      ]
     }
   ]
 }
