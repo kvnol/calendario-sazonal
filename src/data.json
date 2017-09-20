@@ -227,6 +227,18 @@
           "wikipedia": ""
         }
       ]
+    },
+    {
+      "date": "17-01",
+      "holiday": false,
+      "celebrations": [
+        {
+          "id": 26,
+          "title": "Dia dos tribunais de contas do Brasil",
+          "description": "",
+          "wikipedia": ""
+        }
+      ]
     }
   ]
 }
