@@ -348,6 +348,18 @@
         }
       ]
     },
+    {
+      "date": "26-01",
+      "holiday": false,
+      "celebrations": [
+        {
+          "id": 39,
+          "title": "Dia da gula",
+          "description": "",
+          "wikipedia": ""
+        }
+      ]
+    }
   ]
 }
   
