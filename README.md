@@ -7,6 +7,7 @@
 
 ### Últimas atualizações
 
+* `0.4.1` - Datas do dia `01 de fevereiro` adicionadas
 * `0.4.0` - Datas de janeiro adicionadas
 
 ## License
