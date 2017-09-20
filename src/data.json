@@ -377,6 +377,18 @@
           "wikipedia": "https://pt.wikipedia.org/wiki/Dia_Internacional_da_Lembran%C3%A7a_do_Holocausto"
         }
       ]
+    },
+    {
+      "date": "28-01",
+      "holiday": false,
+      "celebrations": [
+        {
+          "id": 42,
+          "title": "Dia do comércio exterior",
+          "description": "",
+          "wikipedia": ""
+        }
+      ]
     }
   ]
 }
