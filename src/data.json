@@ -251,6 +251,18 @@
           "wikipedia": ""
         }
       ]
+    },
+    {
+      "date": "20-01",
+      "holiday": false,
+      "celebrations": [
+        {
+          "id": 28,
+          "title": "Dia do farmacêutico",
+          "description": "",
+          "wikipedia": ""
+        }
+      ]
     }
   ]
 }
