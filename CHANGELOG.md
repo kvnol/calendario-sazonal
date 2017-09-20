@@ -2,7 +2,7 @@
 
 ## 20-09-2017
 
-* `0.2.2` - Alteração no `holiday` para ser utilizado como booleano, com `true`ou `false`
+* `0.3.0` - Alteração no `holiday` para ser utilizado como booleano, com `true`ou `false`
 
 ## 19-09-2017
 
