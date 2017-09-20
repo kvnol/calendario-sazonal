@@ -509,6 +509,18 @@
           "wikipedia": ""
         }
       ]
+    },
+    {
+      "date": "06-02",
+      "holiday": false,
+      "celebrations": [
+        {
+          "id": 54,
+          "title": "Dia do Agente de Defesa Ambiental",
+          "description": "",
+          "wikipedia": ""
+        }
+      ]
     }
   ]
 }
