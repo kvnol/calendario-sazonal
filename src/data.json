@@ -129,6 +129,12 @@
           "title": "Dia do fico",
           "description": "O Dia do Fico deu-se em 9 de janeiro de 1822 quando o então príncipe regente D. Pedro de Alcântara foi contra as ordens das Cortes Portuguesas que exigiam sua volta a Lisboa, ficando no Brasil.",
           "wikipedia": "https://pt.wikipedia.org/wiki/Dia_do_Fico"
+        },
+        {
+          "id": 15,
+          "title": "Dia do astronauta",
+          "description": "",
+          "wikipedia": ""
         }
       ]
     }
