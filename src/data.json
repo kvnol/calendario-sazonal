@@ -369,6 +369,12 @@
           "title": "Dia do orador",
           "description": "",
           "wikipedia": ""
+        },
+        {
+          "id": 41,
+          "title": "Dia internacional em memória das vítimas do holocausto",
+          "description": "Dia Internacional da Lembrança do Holocausto é um dia internacional da lembrança das vítimas do Holocausto, o genocídio cometido pelos nazistas e seus adeptos que ceifou a vida de milhões de judeus durante a II Guerra Mundial.",
+          "wikipedia": "https://pt.wikipedia.org/wiki/Dia_Internacional_da_Lembran%C3%A7a_do_Holocausto"
         }
       ]
     }
