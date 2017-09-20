@@ -2,6 +2,7 @@
 
 ## 20-09-2017
 
+* `0.3.11` - Datas do dia `22 de janeiro` adicionadas
 * `0.3.10` - Datas do dia `21 de janeiro` adicionadas
 * `0.3.9` - Datas do dia `20 de janeiro` adicionadas
 * `0.3.8` - Datas do dia `18 de janeiro` adicionadas
@@ -24,10 +25,6 @@
 * `0.1.4` - Datas do dia `4 de janeiro` adicionadas
 * `0.1.3` - Datas do dia `2 de janeiro` adicionadas
 * `0.1.2` - Arquivo `data.json` movido para pasta `/src`
-* `0.1.1` - Datas do dia `1 de janeiro` adicionadas:
-  * Ano novo;
-  * Dia da Fraternidade Universal;
-  * Dia Mundial da Paz;
-  * Dia do Mercosul;
+* `0.1.1` - Datas do dia `1 de janeiro` adicionadas
 * `0.1.0` - Padrão inicial criado: para as datas com as infos: `id`, `data`, `nome`, `descricao` e `wikipedia`
 * `0.0.0` - Projeto iniciado
