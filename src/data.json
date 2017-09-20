@@ -137,6 +137,18 @@
           "wikipedia": ""
         }
       ]
+    },
+    {
+      "date": "11-01",
+      "holiday": false,
+      "celebrations": [
+        {
+          "id": 16,
+          "title": "Dia do controle da poluição por agrotóxicos",
+          "description": "",
+          "wikipedia": ""
+        }
+      ]
     }
   ]
 }
