@@ -197,6 +197,18 @@
           "wikipedia": ""
         }
       ]
+    },
+    {
+      "date": "15-01",
+      "holiday": false,
+      "celebrations": [
+        {
+          "id": 23,
+          "title": "Dia mundial do compositor",
+          "description": "",
+          "wikipedia": ""
+        }
+      ]
     }
   ]
 }
