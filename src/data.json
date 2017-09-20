@@ -395,6 +395,18 @@
           "wikipedia": ""
         }
       ]
+    },
+    {
+      "date": "29-01",
+      "holiday": false,
+      "celebrations": [
+        {
+          "id": 44,
+          "title": "Dia da loteria",
+          "description": "",
+          "wikipedia": ""
+        }
+      ]
     }
   ]
 }
