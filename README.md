@@ -7,6 +7,7 @@
 
 ### Últimas atualizações
 
+* `0.2.2` - Alteração no `holiday` para ser utilizado como booleano
 * `0.2.1` - Datas do dia `8 de janeiro` adicionadas
 * `0.2.0` - Nova estrutura criada
 
