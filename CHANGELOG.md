@@ -2,6 +2,7 @@
 
 ## 20-09-2017
 
+* `0.3.12` - Datas do dia `23 de janeiro` adicionadas
 * `0.3.11` - Datas do dia `22 de janeiro` adicionadas
 * `0.3.10` - Datas do dia `21 de janeiro` adicionadas
 * `0.3.9` - Datas do dia `20 de janeiro` adicionadas
