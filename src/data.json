@@ -155,6 +155,18 @@
           "wikipedia": ""
         }
       ]
+    },
+    {
+      "date": "12-01",
+      "holiday": false,
+      "celebrations": [
+        {
+          "id": 18,
+          "title": "Dia do empresário de contabilidade",
+          "description": "",
+          "wikipedia": ""
+        }
+      ]
     }
   ]
 }
