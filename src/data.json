@@ -2,7 +2,8 @@
   "days": [
     {
       "date": "01-01",
-      "holidays": [
+      "holiday": true,
+      "celebrations": [
         {
           "id": 1,
           "title": "Ano novo",
@@ -31,7 +32,7 @@
     },
     {
       "date": "02-01",
-      "holidays": [
+      "celebrations": [
         {
           "id": 5,
           "title": "Dia do médico sanitarista",
@@ -42,7 +43,7 @@
     },
     {
       "date": "04-01",
-      "holidays": [
+      "celebrations": [
         {
           "id": 6,
           "title": "Dia nacional da abreugrafia",
@@ -59,7 +60,7 @@
     },
     {
       "date": "05-01",
-      "holidays": [
+      "celebrations": [
         {
           "id": 8,
           "title": "Dia da criação da 1ª tipografia no brasil",
@@ -70,7 +71,7 @@
     },
     {
       "date": "06-01",
-      "holidays": [
+      "celebrations": [
         {
           "id": 9,
           "title": "Dia da gratidão",
@@ -93,7 +94,7 @@
     },
     {
       "date": "07-01",
-      "holidays": [
+      "celebrations": [
         {
           "id": 12,
           "title": "Dia do leitor",
@@ -104,7 +105,7 @@
     },
     {
       "date": "08-01",
-      "holidays": [
+      "celebrations": [
         {
           "id": 13,
           "title": "Dia nacional da fotografia",
