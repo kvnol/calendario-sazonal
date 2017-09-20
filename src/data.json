@@ -455,6 +455,18 @@
           "wikipedia": ""
         }
       ]
+    },
+    {
+      "date": "01-02",
+      "holiday": false,
+      "celebrations": [
+        {
+          "id": 49,
+          "title": "Dia do Publicitário",
+          "description": "",
+          "wikipedia": ""
+        }
+      ]
     }
   ]
 }
