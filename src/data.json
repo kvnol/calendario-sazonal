@@ -333,6 +333,18 @@
           "title": "Aniversário da cidade de São Paulo",
           "description": "",
           "wikipedia": ""
+        },
+        {
+          "id": 37,
+          "title": "Dia do carteiro",
+          "description": "",
+          "wikipedia": ""
+        },
+        {
+          "id": 38,
+          "title": "Dia dos telégrafos",
+          "description": "",
+          "wikipedia": ""
         }
       ]
     },
