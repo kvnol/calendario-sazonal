@@ -215,6 +215,18 @@
           "wikipedia": ""
         }
       ]
+    },
+    {
+      "date": "16-01",
+      "holiday": false,
+      "celebrations": [
+        {
+          "id": 25,
+          "title": "Dia do cortador de cana-de-açucar",
+          "description": "",
+          "wikipedia": ""
+        }
+      ]
     }
   ]
 }
