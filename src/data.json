@@ -485,6 +485,18 @@
           "wikipedia": ""
         }
       ]
+    },
+    {
+      "date": "04-02",
+      "holiday": false,
+      "celebrations": [
+        {
+          "id": 52,
+          "title": "Dia do Amigo do Facebook",
+          "description": "",
+          "wikipedia": ""
+        }
+      ]
     }
   ]
 }
