@@ -281,6 +281,18 @@
           "wikipedia": ""
         }
       ]
+    },
+    {
+      "date": "22-01",
+      "holiday": false,
+      "celebrations": [
+        {
+          "id": 31,
+          "title": "Dia do senado",
+          "description": "",
+          "wikipedia": ""
+        }
+      ]
     }
   ]
 }
