@@ -317,7 +317,19 @@
           "wikipedia": ""
         }
       ]
-    }
+    },
+    {
+      "date": "25-01",
+      "holiday": false,
+      "celebrations": [
+        {
+          "id": 35,
+          "title": "Data alusiva ao 1ª fórum social mundial - POA",
+          "description": "",
+          "wikipedia": ""
+        }
+      ]
+    },
   ]
 }
   
