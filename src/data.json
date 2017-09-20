@@ -239,6 +239,18 @@
           "wikipedia": ""
         }
       ]
+    },
+    {
+      "date": "18-01",
+      "holiday": false,
+      "celebrations": [
+        {
+          "id": 27,
+          "title": "Dia internacional do riso",
+          "description": "",
+          "wikipedia": ""
+        }
+      ]
     }
   ]
 }
