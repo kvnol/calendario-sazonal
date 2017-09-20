@@ -7,6 +7,7 @@
 
 ### Últimas atualizações
 
+* `0.3.1` - Datas do dia `9 de janeiro` adicionadas
 * `0.3.0` - Alteração no `holiday` para ser utilizado como booleano
 
 ## License

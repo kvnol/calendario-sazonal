@@ -2,6 +2,7 @@
 
 ## 20-09-2017
 
+* `0.3.1` - Datas do dia `9 de janeiro` adicionadas
 * `0.3.0` - Alteração no `holiday` para ser utilizado como booleano, com `true`ou `false`
 
 ## 19-09-2017
