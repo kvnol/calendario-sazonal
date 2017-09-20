@@ -269,6 +269,18 @@
           "wikipedia": ""
         }
       ]
+    },
+    {
+      "date": "21-01",
+      "holiday": false,
+      "celebrations": [
+        {
+          "id": 30,
+          "title": "Dia mundial da religião",
+          "description": "",
+          "wikipedia": ""
+        }
+      ]
     }
   ]
 }
