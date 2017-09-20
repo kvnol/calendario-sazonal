@@ -359,6 +359,18 @@
           "wikipedia": ""
         }
       ]
+    },
+    {
+      "date": "27-01",
+      "holiday": false,
+      "celebrations": [
+        {
+          "id": 40,
+          "title": "Dia do orador",
+          "description": "",
+          "wikipedia": ""
+        }
+      ]
     }
   ]
 }
