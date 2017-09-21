@@ -533,6 +533,18 @@
           "wikipedia": ""
         }
       ]
+    },
+    {
+      "date": "09-02",
+      "holiday": false,
+      "celebrations": [
+        {
+          "id": 56,
+          "title": "Dia do Surf",
+          "description": "",
+          "wikipedia": ""
+        }
+      ]
     }
   ]
 }
