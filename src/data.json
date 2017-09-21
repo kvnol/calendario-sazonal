@@ -521,6 +521,18 @@
           "wikipedia": ""
         }
       ]
+    },
+    {
+      "date": "07-02",
+      "holiday": false,
+      "celebrations": [
+        {
+          "id": 55,
+          "title": "Dia do Gráfico",
+          "description": "",
+          "wikipedia": ""
+        }
+      ]
     }
   ]
 }
