@@ -1,8 +1,10 @@
 # Changelog
 
-## 20-09-2017
+## 21-09-2017
 
 #### Version 0.4.0
+* `0.4.22` - Datas do dia `27 de fevereiro` adicionadas
+* `0.4.21` - Datas do dia `26 de fevereiro` adicionadas
 * `0.4.20` - Datas do dia `24 de fevereiro` adicionadas
 * `0.4.19` - Datas do dia `23 de fevereiro` adicionadas
 * `0.4.18` - Datas do dia `22 de fevereiro` adicionadas
@@ -10,6 +12,9 @@
 * `0.4.16` - Datas do dia `20 de fevereiro` adicionadas
 * `0.4.15` - Datas do dia `19 de fevereiro` adicionadas
 * `0.4.14` - Datas do dia `18 de fevereiro` adicionadas
+
+## 20-09-2017
+
 * `0.4.13` - Datas do dia `17 de fevereiro` adicionadas
 * `0.4.12` - Datas do dia `16 de fevereiro` adicionadas
 * `0.4.11` - Datas do dia `14 de fevereiro` adicionadas
