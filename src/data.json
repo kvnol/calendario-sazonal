@@ -659,6 +659,18 @@
           "wikipedia": ""
         }
       ]
+    },
+    {
+      "date": "21-02",
+      "holiday": false,
+      "celebrations": [
+        {
+          "id": 67,
+          "title": "Dia do Naturalismo",
+          "description": "",
+          "wikipedia": ""
+        }
+      ]
     }
   ]
 }
