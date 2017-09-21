@@ -635,6 +635,18 @@
           "wikipedia": ""
         }
       ]
+    },
+    {
+      "date": "19-02",
+      "holiday": false,
+      "celebrations": [
+        {
+          "id": 65,
+          "title": "Dia dos Esportistas",
+          "description": "",
+          "wikipedia": ""
+        }
+      ]
     }
   ]
 }
