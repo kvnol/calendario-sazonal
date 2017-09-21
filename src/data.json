@@ -545,6 +545,18 @@
           "wikipedia": ""
         }
       ]
+    },
+    {
+      "date": "10-02",
+      "holiday": false,
+      "celebrations": [
+        {
+          "id": 57,
+          "title": "Dia Internacional da Internet Segura",
+          "description": "",
+          "wikipedia": ""
+        }
+      ]
     }
   ]
 }
