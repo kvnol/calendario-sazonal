@@ -611,6 +611,18 @@
           "wikipedia": ""
         }
       ]
+    },
+    {
+      "date": "17-02",
+      "holiday": false,
+      "celebrations": [
+        {
+          "id": 63,
+          "title": "Fim da Semana da Arte Moderna",
+          "description": "A Semana de Arte Moderna, também chamada de Semana de 22, ocorreu em São Paulo, entre os dias 11 e 18 de fevereiro de 1922, no Teatro Municipal da cidade.",
+          "wikipedia": "https://pt.wikipedia.org/wiki/Semana_de_Arte_Moderna"
+        }
+      ]
     }
   ]
 }
