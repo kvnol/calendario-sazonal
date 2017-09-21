@@ -1,6 +1,6 @@
 {
   "name": "calendario-sazonal",
-  "version": "0.4.8",
+  "version": "0.4.9",
   "description": "API em JSON de datas comemorativas no Brasil.",
   "main": "index.js",
   "scripts": {
