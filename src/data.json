@@ -707,6 +707,18 @@
           "wikipedia": ""
         }
       ]
+    },
+    {
+      "date": "26-02",
+      "holiday": false,
+      "celebrations": [
+        {
+          "id": 72,
+          "title": "Dia do Comediante",
+          "description": "",
+          "wikipedia": ""
+        }
+      ]
     }
   ]
 }
