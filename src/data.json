@@ -563,6 +563,18 @@
           "wikipedia": ""
         }
       ]
+    },
+    {
+      "date": "11-02",
+      "holiday": false,
+      "celebrations": [
+        {
+          "id": 59,
+          "title": "Dia Mundial do Enfermo",
+          "description": "",
+          "wikipedia": ""
+        }
+      ]
     }
   ]
 }
