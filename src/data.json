@@ -587,6 +587,18 @@
           "wikipedia": ""
         }
       ]
+    },
+    {
+      "date": "14-02",
+      "holiday": false,
+      "celebrations": [
+        {
+          "id": 61,
+          "title": "Dia da amizade",
+          "description": "",
+          "wikipedia": ""
+        }
+      ]
     }
   ]
 }
