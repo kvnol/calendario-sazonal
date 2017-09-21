@@ -599,6 +599,18 @@
           "wikipedia": ""
         }
       ]
+    },
+    {
+      "date": "16-02",
+      "holiday": false,
+      "celebrations": [
+        {
+          "id": 62,
+          "title": "Dia do Repórter",
+          "description": "",
+          "wikipedia": ""
+        }
+      ]
     }
   ]
 }
