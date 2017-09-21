@@ -737,6 +737,18 @@
           "wikipedia": ""
         }
       ]
+    },
+    {
+      "date": "28-02",
+      "holiday": true,
+      "celebrations": [
+        {
+          "id": 75,
+          "title": "Carnaval",
+          "description": "Carnaval é um festival do cristianismo ocidental que ocorre antes da estação litúrgica da Quaresma. Os principais eventos ocorrem tipicamente durante fevereiro ou início de março, durante o período historicamente conhecido como Tempo da Septuagésima (ou pré-quaresma).",
+          "wikipedia": "https://pt.wikipedia.org/wiki/Carnaval"
+        }
+      ]
     }
   ]
 }

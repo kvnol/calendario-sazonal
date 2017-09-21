@@ -3,6 +3,7 @@
 ## 21-09-2017
 
 #### Version 0.4.0
+* `0.4.23` - Datas do dia `28 de fevereiro` adicionadas
 * `0.4.22` - Datas do dia `27 de fevereiro` adicionadas
 * `0.4.21` - Datas do dia `26 de fevereiro` adicionadas
 * `0.4.20` - Datas do dia `24 de fevereiro` adicionadas
