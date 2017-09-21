@@ -719,6 +719,18 @@
           "wikipedia": ""
         }
       ]
+    },
+    {
+      "date": "27-02",
+      "holiday": false,
+      "celebrations": [
+        {
+          "id": 73,
+          "title": "Dia Nacional do Livro Didático",
+          "description": "",
+          "wikipedia": ""
+        }
+      ]
     }
   ]
 }
