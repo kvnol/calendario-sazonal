@@ -677,6 +677,18 @@
           "wikipedia": ""
         }
       ]
+    },
+    {
+      "date": "22-02",
+      "holiday": false,
+      "celebrations": [
+        {
+          "id": 69,
+          "title": "Dia Nacional da Criação do IBAMA",
+          "description": "",
+          "wikipedia": ""
+        }
+      ]
     }
   ]
 }
