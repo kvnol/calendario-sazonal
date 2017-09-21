@@ -7,16 +7,7 @@
 
 ### Últimas atualizações
 
-* `0.4.9` - Datas do dia `11 de fevereiro` adicionadas
-* `0.4.8` - Datas do dia `10 de fevereiro` adicionadas
-* `0.4.7` - Datas do dia `09 de fevereiro` adicionadas
-* `0.4.6` - Datas do dia `07 de fevereiro` adicionadas
-* `0.4.5` - Datas do dia `06 de fevereiro` adicionadas
-* `0.4.4` - Datas do dia `05 de fevereiro` adicionadas
-* `0.4.3` - Datas do dia `04 de fevereiro` adicionadas
-* `0.4.2` - Datas do dia `02 de fevereiro` adicionadas
-* `0.4.1` - Datas do dia `01 de fevereiro` adicionadas
-* `0.4.0` - Datas de janeiro adicionadas
+* `0.4.10` - Datas do dia `13 de fevereiro` adicionadas
 
 ## License
 [Licensed by MIT](/LICENSE) &copy; Kevin Oliveira
