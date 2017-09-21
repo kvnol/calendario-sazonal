@@ -623,6 +623,18 @@
           "wikipedia": "https://pt.wikipedia.org/wiki/Semana_de_Arte_Moderna"
         }
       ]
+    },
+    {
+      "date": "18-02",
+      "holiday": false,
+      "celebrations": [
+        {
+          "id": 64,
+          "title": "Dia Nacional de Combate ao Alcoolismo",
+          "description": "",
+          "wikipedia": ""
+        }
+      ]
     }
   ]
 }

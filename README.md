@@ -7,6 +7,7 @@
 
 ### Últimas atualizações
 
+* `0.4.14` - Datas do dia `18 de fevereiro` adicionadas
 * `0.4.13` - Datas do dia `17 de fevereiro` adicionadas
 * `0.4.12` - Datas do dia `16 de fevereiro` adicionadas
 * `0.4.11` - Datas do dia `14 de fevereiro` adicionadas
