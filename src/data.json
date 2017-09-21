@@ -689,6 +689,18 @@
           "wikipedia": ""
         }
       ]
+    },
+    {
+      "date": "23-02",
+      "holiday": false,
+      "celebrations": [
+        {
+          "id": 70,
+          "title": "Dia Nacional do Rotary Club",
+          "description": "",
+          "wikipedia": ""
+        }
+      ]
     }
   ]
 }
