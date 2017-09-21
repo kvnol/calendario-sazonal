@@ -647,6 +647,18 @@
           "wikipedia": ""
         }
       ]
+    },
+    {
+      "date": "20-02",
+      "holiday": false,
+      "celebrations": [
+        {
+          "id": 66,
+          "title": "Dia Mundial da Justiça Social",
+          "description": "",
+          "wikipedia": ""
+        }
+      ]
     }
   ]
 }
