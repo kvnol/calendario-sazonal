@@ -575,6 +575,18 @@
           "wikipedia": ""
         }
       ]
+    },
+    {
+      "date": "13-02",
+      "holiday": false,
+      "celebrations": [
+        {
+          "id": 60,
+          "title": "Dia Mundial do Rádio",
+          "description": "",
+          "wikipedia": ""
+        }
+      ]
     }
   ]
 }
